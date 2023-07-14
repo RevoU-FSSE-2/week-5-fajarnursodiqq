@@ -1,6 +1,6 @@
 # Company Profile
 
-## # OPEN WITH MOBILE FOR BETTER EXPERIENCE <a href="http://fajarlab.site/">link</a>
+## # OPEN WITH MOBILE FOR BETTER EXPERIENCE <a href="http://fajarlab.site/" target="_blank">link</a>
 
 This is a sample company profile website built using HTML and CSS.
 
