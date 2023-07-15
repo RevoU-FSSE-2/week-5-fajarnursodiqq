@@ -4,6 +4,13 @@
 
 This is a sample company profile website built using HTML and CSS.
 
+WEBSITE VERSION![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/1.png)
+WEBSITE VERSION![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/2.png)
+
+MOBILE VERSION![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/3.png)
+MOBILE VERSION![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/4.png)
+MOBILE VERSION![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/5.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
