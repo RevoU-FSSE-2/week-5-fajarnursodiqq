@@ -10,6 +10,9 @@ This is a sample company profile website built using HTML and CSS.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Design Choices](#design-choices)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -26,7 +29,7 @@ The company profile website showcases the services and offerings of the company.
 
 ## Installation
 
-To install and run the company profile website locally, follow these steps:
+To set up and run the company profile website locally, follow these steps:
 
 1. Clone the repository:
 2. Navigate to the project directory:
@@ -36,10 +39,31 @@ To install and run the company profile website locally, follow these steps:
 
 The website can be used as a template for creating a company profile website. You can customize the content, images, and styling according to your company's requirements. Modify the HTML and CSS files to add your own branding and personalize the website.
 
+## Dependencies
+
+The project does not have any external dependencies or libraries. It is built using pure HTML and CSS.
+
+## Design Choices
+
+The design of the website focuses on simplicity and user-friendliness. The use of clean and minimalistic layouts, along with a consistent color scheme, provides a professional and modern look. The responsive design ensures that the website adapts well to different screen sizes and devices.
+
+## Screenshots
+
+Here are some screenshots of the company profile website:
+
+![Screenshot 1] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/18.png)
+![Screenshot 2] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/19.png)
+![Screenshot 3] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/20.png)
+![Screenshot 4] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/21.png)
+![Screenshot 5] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/22.png)
+![Screenshot 6] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/23.png)
+![Screenshot 7] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/24.png)
+![Screenshot 8] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/25.png)
+![Screenshot 9] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/26.png)
+![Screenshot 10] ![img](https://github.com/RevoU-FSSE-2/week-5-fajarnursodiqq/blob/main/imeges/27.png)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
-
----
 
 Thank you for using our company profile website! We hope you find it informative and inspiring. For any further inquiries, please contact us at [fajarnursodiqq@gmail.com]
